@@ -1,0 +1,18 @@
+# Core Web Framework
+Flask
+Flask-Cors
+python-dotenv
+
+# AI & Machine Learning (for GPU)
+faster-whisper
+torch
+transformers
+tf-keras
+
+# Audio & Data Processing
+librosa
+numpy
+pydub
+
+# API & Cloud Services
+cloudinary
